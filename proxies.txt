@@ -1,0 +1,20 @@
+# Coloque seus proxies neste arquivo (renomeie para proxies.txt), UM por linha.
+# Linhas que começam com # são ignoradas (comentários).
+#
+# O tipo padrão é http. Para usar outros tipos, separe em blocos com um
+# marcador de duas cerquilhas ANTES das linhas:  ## http | ## socks4 | ## socks5
+#
+# Formatos aceitos por linha:
+#   ip:porta
+#   ip:porta:usuario:senha
+#   usuario:senha@ip:porta
+#   tipo://ip:porta            (ex: socks5://192.0.2.10:1080)
+#
+# Exemplo (apague o "# " da frente e troque pelos seus proxies):
+#
+# ## http
+# 192.0.2.10:8080
+# 192.0.2.11:8080:meuusuario:minhasenha
+#
+# ## socks5
+# 192.0.2.20:1080
