@@ -7,7 +7,7 @@
   Generates usernames based on a pattern and checks which ones are available on Discord, using proxies.
 </p>
 
-<img src="https://cdn.discordapp.com/attachments/1550165632576651355/1551577423198556180/m1qhbf3.gif?ex=6ab27a94&is=6ab12914&hm=92cc01c9112fd4560e9c6696c6655be09cbf38d24aa94ca6463cd05b9acc4682&animated=true" alt="demonstração" width="600">
+<img src="https://i.pinimg.com/originals/65/b6/e5/65b6e570ad88a942db5ea488a7b58ca8.gif" alt="demonstração" width="600">
 
 ## How use
 
